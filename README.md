@@ -13,7 +13,69 @@ I am a graduating Information Technology student with a strong passion for web d
 
 # 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlSua&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="CarlSua's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSua&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="41%" />
+</p>
 
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=CarlSua&theme=radical&hide_border=true" alt="CarlSua's GitHub Streak" width="55%" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlSua&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1" alt="CarlSua's Trophies" />
+</p>
+
+---
+
+# 📈 Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlSua&theme=redical&hide_border=true&area=true" alt="CarlSua's Activity Graph" width="95%" />
+</p>
+
+---
+
+# 🐍 Contribution Snake:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlSua/CarlSua/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlSua/CarlSua/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/CarlSua/CarlSua/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+> ⚙️ **Snake setup:** Add this GitHub Action to your repo at `.github/workflows/snake.yml` to auto-generate the snake animation:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: CarlSua
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CarlSua&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
@@ -23,3 +85,4 @@ I am a graduating Information Technology student with a strong passion for web d
   </a>
 </p>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
