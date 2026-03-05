@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=f8f9fa&center=true&vCenter=true&width=600&height=60&lines=Carl+Joshua+H.+Lepaopao" alt="Name" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=adb5bd&center=true&vCenter=true&width=600&height=45&lines=An+aspiring+web+developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TailwindCSS;Building+impactful+digital+solutions+%F0%9F%92%BB" alt="Typing subtitle" />
+  <img src="https://raw.githubusercontent.com/CarlSua/CarlSua/main/banner.svg" alt="Carl Joshua H. Lepaopao" width="100%"/>
 </p>
 
 ## 👨🏻‍💻 About Me
