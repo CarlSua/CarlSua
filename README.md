@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=60&lines=Carl+Joshua+H.+Lepaopao" alt="Name" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=An+aspiring+web+developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TailwindCSS;Building+impactful+digital+solutions+%F0%9F%92%BB" alt="Typing subtitle" />
+</p>
+
 ## 👨🏻‍💻 About Me
 I am a graduating Information Technology student with a strong passion for web development and creating impactful digital solutions. My goal is to become a professional web developer, and I continuously strengthen my skills by developing educational applications and working on real-world projects.
 
