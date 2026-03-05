@@ -17,7 +17,7 @@ I am a graduating Information Technology student with a strong passion for web d
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlSua&theme=redical&hide_border=true&area=true" alt="CarlSua's Activity Graph" width="95%" />
 </p>
 
-## 🐍 Contribution Snake
+## 🏴 Contribution
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlSua/CarlSua/output/github-snake-dark.svg" />
