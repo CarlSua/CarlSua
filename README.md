@@ -13,16 +13,7 @@ I am a graduating Information Technology student with a strong passion for web d
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlSua&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="CarlSua's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSua&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="41%" />
-</p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CarlSua&theme=radical&hide_border=true" alt="CarlSua's GitHub Streak" width="55%" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CarlSua&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
@@ -32,4 +23,3 @@ I am a graduating Information Technology student with a strong passion for web d
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
