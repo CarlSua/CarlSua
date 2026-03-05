@@ -1,5 +1,6 @@
 ## 💫 About Me:
 I am a graduating Information Technology student with a strong passion for web development and creating impactful digital solutions. My goal is to become a professional web developer, and I continuously strengthen my skills by developing educational applications and working on real-world projects.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/carllepaopao) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carl4suree) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carljoshualepaopao/)
 
