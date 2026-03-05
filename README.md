@@ -1,4 +1,4 @@
-## 💫 About Me
+## 👨🏻‍💻 About Me
 I am a graduating Information Technology student with a strong passion for web development and creating impactful digital solutions. My goal is to become a professional web developer, and I continuously strengthen my skills by developing educational applications and working on real-world projects.
 
 ## 🌐 Socials
